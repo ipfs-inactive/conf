@@ -1,0 +1,105 @@
+{
+  "extends": ["airbnb", "prettier"],
+  "plugins": ["prettier"],
+  "parser": "babel-eslint",
+  "settings": {
+    "import/core-modules": ["root", "@storybook/react", "storybook-readme"]
+  },
+  "globals": {
+    "__DEVELOPMENT__": true,
+    "__PRODUCTION__": true,
+    "test": true,
+    "document": true,
+    "window": true,
+    "graphql": true
+  },
+  "rules": {
+    "prettier/prettier": "error",
+    "no-console": "error",
+    "max-len": "off",
+    "curly": ["error", "multi-line"],
+    "padding-line-between-statements": [
+      "error",
+      { "blankLine": "always", "prev": "*", "next": "return" },
+      { "blankLine": "always", "prev": "*", "next": "if" },
+      { "blankLine": "always", "prev": "if", "next": "*" },
+      { "blankLine": "always", "prev": ["const", "let", "var"], "next": "*" },
+      {
+        "blankLine": "any",
+        "prev": ["const", "let", "var"],
+        "next": ["const", "let", "var"]
+      }
+    ],
+    "no-param-reassign": [
+      "error",
+      {
+        "props": true,
+        "ignorePropertyModificationsFor": [
+          "memo",
+          "element",
+          "key",
+          "req",
+          "acc",
+          "result"
+        ]
+      }
+    ],
+    "no-underscore-dangle": "off",
+    "class-methods-use-this": "off",
+    "id-length": [
+      "error",
+      {
+        "exceptions": ["_", "x", "y"]
+      }
+    ],
+    "no-use-before-define": ["error", "nofunc"],
+    "no-unused-vars": [
+      "error",
+      {
+        "argsIgnorePattern": "^_"
+      }
+    ],
+
+    "react/no-multi-comp": [
+      2,
+      {
+        "ignoreStateless": true
+      }
+    ],
+    "react/jsx-no-bind": [
+      2,
+      {
+        "ignoreRefs": true
+      }
+    ],
+    "react/prefer-stateless-function": "off",
+    "react/require-default-props": "off",
+    "react/forbid-prop-types": "off",
+    "react/jsx-filename-extension": "off",
+    "react/no-unused-prop-types": "off",
+    "react/no-string-refs": "off",
+    "react/no-danger": "off",
+    "react/style-prop-object": "off",
+    "react/no-find-dom-node": "off",
+    "react/default-props-match-prop-types": "off",
+    "react/no-array-index-key": "off",
+
+    "jsx-a11y/click-events-have-key-events": "off",
+    "jsx-a11y/interactive-supports-focus": "off",
+    "jsx-a11y/anchor-is-valid": [
+      "error",
+      {
+        "components": ["RouterLink"],
+        "specialLink": ["to"]
+      }
+    ],
+
+    "import/no-unresolved": [
+      2,
+      {
+        "ignore": ["root/"]
+      }
+    ],
+    "react/jsx-indent": "off"
+  }
+}

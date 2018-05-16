@@ -1,0 +1,21 @@
+.header {
+  margin-bottom: 1.45rem;
+
+  background-color: rebeccapurple;
+
+  h1 {
+    margin: 0;
+  }
+}
+
+.header-inner {
+  max-width: 960px;
+  padding: 1.45rem 1.0875rem;
+  margin: 0 auto;
+}
+
+.header-link {
+  color: white !important;
+
+  text-decoration: none !important;
+}

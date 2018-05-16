@@ -1,0 +1,53 @@
+{
+  "name": "ipfssummit",
+  "description": "IPFS Summit website",
+  "version": "1.0.0",
+  "author": "Subvisual",
+  "dependencies": {
+    "autoprefixer": "^8.0.0",
+    "babel-plugin-react-css-modules": "^3.4.0",
+    "css-loader": "^0.28.11",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "gatsby": "^1.9.146",
+    "gatsby-link": "^1.6.37",
+    "gatsby-plugin-google-analytics": "^1.0.19",
+    "gatsby-plugin-react-helmet": "^1.0.8",
+    "postcss-loader": "^2.1.5",
+    "precss": "^3.1.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-helmet": "^5.2.0",
+    "react-images": "^0.5.14",
+    "style-loader": "^0.21.0"
+  },
+  "keywords": ["ipfs", "libp2p", "decentralized", "web"],
+  "license": "MIT",
+  "main": "n/a",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfranciscosousa/ipfssummit"
+  },
+  "scripts": {
+    "lint": "eslint src",
+    "lint-fix": "eslint --fix src",
+    "lint-styles": "stylelint \"src/**/*.scss\"",
+    "lint-styles-fix": "stylelint \"src/**/*.scss\" --fix",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-react": "^7.6.1",
+    "gh-pages": "^1.1.0",
+    "prettier": "^1.10.2",
+    "stylelint": "^9.0.0",
+    "stylelint-order": "^0.8.1"
+  }
+}
