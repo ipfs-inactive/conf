@@ -1,0 +1,4 @@
+website([
+  website: 'conf.ipfs.io',
+  record: '_dnslink'
+])
