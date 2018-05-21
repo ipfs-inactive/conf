@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 
-import Navbar from "../../components/Navbar";
 import Metadata from "../../components/Metadata";
 import Footer from "../../components/Footer";
 
