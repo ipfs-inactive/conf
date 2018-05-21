@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Space+Mono:400,700,italic|Karla:400,700,italic");
+
+$font-size-small: 16px;
+$font-size-medium: 20px;
+$font-size-large: 28px;
+$font-size-xLarge: 40px;
+$font-size-xxLarge: 56px;
+$line-height-small: 20px;
+$line-height-medium: 28px;
+$line-height-large: 40px;
+$line-height-xLarge: 56px;
+$line-height-xxLarge: 84px;
+$font-family-mono: "Space Mono", monospace;
+$font-family-sans-serif: "Karla", sans-serif;
+$font-weight-regular: 400;
+$font-weight-bold: 700;

@@ -1,13 +1,15 @@
 import React from "react";
-import Link from "gatsby-link";
+
+import Layout from "../layouts/MainLayout";
+import DevMeetings from "../sections/DevMeetings";
+import Ipfsconf from "../sections/Ipfsconf";
 
 const IndexPage = () => (
-  <div>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <Link to="/page-2/">Go to page 2</Link>
-  </div>
+  <Layout>
+    <Ipfsconf />
+
+    <DevMeetings />
+  </Layout>
 );
 
 export default IndexPage;
