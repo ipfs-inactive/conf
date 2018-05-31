@@ -4,6 +4,8 @@ We’re very excited to announce two events that have been in the making for a v
 
 ## IPFS & libp2p Dev Meetings (Berlin, July 2018)
 
+![](/img/Berlin.jpg)
+
 - **IPFS** 9-11 July - [apply to attend the IPFS Developer Meeting](https://goo.gl/forms/sVRjrW1CA61FTwl12)
 - **libp2p** 12-13 July [apply to attend the libp2p Developer Meeting](https://goo.gl/forms/8YpFQ7D00s5gC3hw2)
 
@@ -20,6 +22,8 @@ Participants will be selected by application. You can apply by filling out the [
 - [IPFS Dev Meeting Planning Google Doc](https://docs.google.com/document/d/1wDyGcCOOSofT9rXqx0DUgV62bUpN0_GXvuVC2Pj-jeo/edit?ts=5ae380b4#) - Meeting Notes and Reference Materials
 
 ## IPFS Conf (Lisbon, November 2018)
+
+![](/img/Lisbon.jpg)
 
 **IPFSConf** Lisbon November 2018
 - [pre-register for IPFSConf in November](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)
