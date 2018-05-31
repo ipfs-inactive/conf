@@ -1,0 +1,20 @@
+@import "../../styles/layout.css";
+@import "../../styles/colors.css";
+@import "../../styles/typography.css";
+
+.main {
+  width: $seven-columns;
+  margin-right: $column-spacing;
+}
+
+.main > *:not(:last-child) {
+  margin-bottom: $spacing-xSmall;
+}
+
+.description {
+  width: $six-columns;
+}
+
+.description > *:not(:last-child) {
+  margin-bottom: $spacing-xSmall;
+}

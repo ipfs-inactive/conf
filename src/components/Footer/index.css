@@ -1,0 +1,48 @@
+@import "../../styles/colors.css";
+@import "../../styles/layout.css";
+@import "../../styles/typography.css";
+
+.root {
+  display: grid;
+  grid-template-columns: repeat(3, $four-columns);
+  grid-column-gap: $gutter;
+}
+
+.linkList {
+  display: grid;
+  grid-row-gap: $spacing-xSmall;
+
+  margin-top: $spacing-xSmall;
+}
+
+.alignBottom {
+  display: table-cell;
+  height: $line-height-xLarge;
+
+  vertical-align: bottom;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+}
+
+.linkIcon {
+  position: relative;
+
+  width: $spacing-xSmall;
+  height: $spacing-xSmall;
+
+  margin-right: calc($spacing-xSmall / 2);
+
+  img {
+    position: absolute;
+
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    margin: auto;
+  }
+}

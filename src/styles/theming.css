@@ -1,0 +1,5 @@
+@import "./colors.css";
+
+$border-width-small: 2px;
+$border-width-default: 4px;
+$border-color-default: $color-orange;

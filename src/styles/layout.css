@@ -1,0 +1,28 @@
+$column: 73px;
+$gutter: 28px;
+$column-spacing: calc($column + 2 * $gutter);
+
+$content-width: calc(12 * $column + 11 * $gutter);
+
+$spacing-xxxSmall: 8px;
+$spacing-xxSmall: 16px;
+$spacing-xSmall: 28px;
+$spacing-small: 40px;
+$spacing-medium: 56px;
+$spacing-large: 112px;
+$spacing-xLarge: 168px;
+
+$two-columns: calc(2 * $column + $gutter);
+$three-columns: calc(3 * $column + 2 * $gutter);
+$four-columns: calc(4 * $column + 3 * $gutter);
+$five-columns: calc(5 * $column + 4 * $gutter);
+$six-columns: calc(6 * $column + 5 * $gutter);
+$seven-columns: calc(7 * $column + 6 * $gutter);
+$eight-columns: calc(8 * $column + 7 * $gutter);
+$nine-columns: calc(9 * $column + 8 * $gutter);
+$ten-columns: calc(10 * $column + 9 * $gutter);
+$eleven-columns: calc(11 * $column + 10 * $gutter);
+$twelve-columns: calc(12 * $column + 11 * $gutter);
+$thirteen-columns: calc(13 * $column + 12 * $gutter);
+$fourteen-columns: calc(14 * $column + 13 * $gutter);
+$fifteen-columns: calc(15 * $column + 14 * $gutter);

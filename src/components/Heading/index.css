@@ -1,0 +1,51 @@
+@import "../../styles/typography.css";
+@import "../../styles/colors.css";
+
+.root {
+  color: white;
+
+  font-family: $font-family-mono;
+}
+
+.regular {
+  font-weight: $font-weight-regular;
+}
+
+.bold {
+  font-weight: $font-weight-bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.level1 {
+  font-size: $font-size-xLarge;
+  line-height: $line-height-xLarge;
+}
+
+.level2 {
+  font-size: $font-size-large;
+  line-height: $line-height-large;
+}
+
+.level3 {
+  font-size: $font-size-medium;
+  line-height: $line-height-medium;
+}
+
+.navy-blue {
+  color: $color-navy-blue;
+}
+
+.light-blue {
+  color: $color-light-blue;
+}
+
+.orange {
+  color: $color-orange;
+}
+
+.white {
+  color: white;
+}
