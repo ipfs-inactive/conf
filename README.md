@@ -1,17 +1,11 @@
-# IPFS and libp2p Dev Meetings July 2018
-
-**IPFS and libp2p Dev Meetings**: Berlin July 9-13 2018
-- **IPFS Meeting** 9-11 July - [apply to attend the IPFS Developer Meeting](https://goo.gl/forms/sVRjrW1CA61FTwl12)
-- **libp2p Meeting** 12-13 July [apply to attend the libp2p Developer Meeting](https://goo.gl/forms/8YpFQ7D00s5gC3hw2)
-
-**IPFSConf** Lisbon November 2018
-- [pre-register for IPFSConf in November](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)
-
-## IPFS Dev Meetings and IPFS Conf
+# The IPFS Conference and Developer Meetings
 
 We’re very excited to announce two events that have been in the making for a very long time. In (tentatively) November we will host a much bigger IPFS Conf in Lisbon. To prepare for that event, in July we will convene small IPFS and libp2p Working Meetings in Berlin with 60-100 people. Both of these events will be loosely inspired by PyCon and Docker Conf — events where community members play a very active role in shaping the agenda, and where a large portion of time is allocated to working meetings where Working Groups and product teams make the most of being together in-person. 
 
-### IPFS Dev Meeting and libp2p Dev Meeting
+## IPFS & libp2p Dev Meetings (Berlin, July 2018)
+
+- **IPFS** 9-11 July - [apply to attend the IPFS Developer Meeting](https://goo.gl/forms/sVRjrW1CA61FTwl12)
+- **libp2p** 12-13 July [apply to attend the libp2p Developer Meeting](https://goo.gl/forms/8YpFQ7D00s5gC3hw2)
 
 The IPFS Dev Meeting will be a small, 3-day working summit for active IPFS maintainers, contributors and the people who are most actively building software on IPFS. It will be followed by 1-day libp2p Dev Meeting specifically focused on libp2p. 
 
@@ -21,13 +15,11 @@ Our priority for the IPFS and libp2p Dev Meetings is to get all of the maintaine
 
 Participants will be selected by application. You can apply by filling out the [IPFS Dev Meeting Application Form](https://goo.gl/forms/sVRjrW1CA61FTwl12) and/or the [libp2p Dev Meeting Application Form](https://goo.gl/forms/8YpFQ7D00s5gC3hw2) To be eligible for selection you must either be an active contributor on GitHub or you must have your work reflected in the IPFS User Registry. Participants will be chosen based their directly-relevant responsibilities, the contributions they've made to the ecosystem, and the impact of their work. We might also invite a small number of guests to provide perspective, inspiration, and guidance from outside our immediate projects.
 
+### Planning/Coordination
 
-## Planning/Coordination
-- [Zenhub Board](https://app.zenhub.com/workspace/o/protocol/event-ipfs-summit-2018/boards) for tracking progress of this work
-- [IPFS Dev Meeting Planning Google Doc](https://docs.google.com/document/d/1wDyGcCOOSofT9rXqx0DUgV62bUpN0_GXvuVC2Pj-jeo/edit?ts=5ae380b4#) - Meeting Notes and Reference Materials 
+- [IPFS Dev Meeting Planning Google Doc](https://docs.google.com/document/d/1wDyGcCOOSofT9rXqx0DUgV62bUpN0_GXvuVC2Pj-jeo/edit?ts=5ae380b4#) - Meeting Notes and Reference Materials
 
+## IPFS Conf (Lisbon, November 2018)
 
-
-
-
-
+**IPFSConf** Lisbon November 2018
+- [pre-register for IPFSConf in November](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)

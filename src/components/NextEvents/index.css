@@ -1,9 +1,0 @@
-@import "../../styles/layout.css";
-
-.root {
-  width: $four-columns;
-}
-
-.root > *:not(:last-child) {
-  margin-bottom: $spacing-xSmall;
-}
