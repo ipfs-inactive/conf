@@ -10,6 +10,7 @@ oth of these events will be loosely inspired by PyCon and Docker Conf — events
 
 - **IPFS** 9-11 July - https://github.com/ipfs/developer-meetings
 - **libp2p** 12-13 July - https://github.com/libp2p/developer-meetings
+- [**SCHEDULE**](https://developersmeetingsberlin2018.sched.com/)
 
 The IPFS Dev Meetings will be a small, 3-day working summit for active IPFS maintainers, contributors and the people who are most actively building software on IPFS. It will be followed by 1-day libp2p Dev Meeting specifically focused on libp2p. 
 
