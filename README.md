@@ -20,9 +20,6 @@ Our priority for the IPFS and libp2p Dev Meetings is to get all of the maintaine
 
 Participants will be selected by application. You can apply by filling out the [IPFS Dev Meeting Application Form](https://goo.gl/forms/sVRjrW1CA61FTwl12) and/or the [libp2p Dev Meeting Application Form](https://goo.gl/forms/8YpFQ7D00s5gC3hw2) To be eligible for selection you must either be an active contributor on GitHub or you must have your work reflected in the IPFS User Registry. Participants will be chosen based their directly-relevant responsibilities, the contributions they've made to the ecosystem, and the impact of their work. We might also invite a small number of guests to provide perspective, inspiration, and guidance from outside our immediate projects.
 
-## IPFS Conf (Lisbon, November 2018)
+## IPFS Conf (Lisbon, 2019)
 
-![](/img/Lisbon.jpg)
-
-**IPFSConf** Lisbon November 2018
-- [pre-register for IPFSConf in November](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)
+More details soon. [Pre-register for IPFSConf in November](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)
