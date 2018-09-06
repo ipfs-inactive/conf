@@ -22,4 +22,4 @@ Participants will be selected by application. You can apply by filling out the [
 
 ## IPFS Conf (Lisbon, 2019)
 
-More details soon. [Pre-register for IPFSConf in November](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)
+More details soon. [Pre-register for IPFSConf in 2019](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)
