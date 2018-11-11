@@ -1,4 +1,4 @@
-# `IPFSConf` The Conference for the IPFS Community, Lisbon 2019
+# `IPFSConf` Lisbon 2019
 
 ![](img/Lisbon-small.jpeg)
 
