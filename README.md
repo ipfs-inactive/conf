@@ -6,7 +6,7 @@ More details soon. [Pre-register for IPFSConf in 2019](https://goo.gl/forms/0Pu6
 
 ## IPFS & libp2p Developer Meetings, Berlin, July 2018
 
-![](/img/Berlin.jpg)
+![](https://camo.githubusercontent.com/7702bb41f7c9b9598ef1caf51d1eda479f55fe13/68747470733a2f2f697066732e696f2f697066732f516d516e557374614b545041393258416b436a32637842414358316e4d79666a59655448536177656a4778415357)
 
 - **IPFS** 9-11 July - https://github.com/ipfs/developer-meetings
 - **libp2p** 12-13 July - https://github.com/libp2p/developer-meetings
