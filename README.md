@@ -1,10 +1,10 @@
-# The IPFS Conference and Developer Meetings
+# `IPFSConf` The Conference for the IPFS Community, Lisbon 2019
 
-We’re very excited to announce two events that have been in the making for a very long time. In (tentatively) November we will **host a large conference for IPFS in Lisbon**. To prepare for that event, we will convene small **IPFS and libp2p Working Meetings in Berlin with 60-100 people in July**. B
+![](img/Lisbon-small.jpeg)
 
-oth of these events will be loosely inspired by PyCon and Docker Conf — events where community members play a very active role in shaping the agenda, and where a large portion of time is allocated to working meetings where Working Groups and product teams make the most of being together in-person. 
+More details soon. [Pre-register for IPFSConf in 2019](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)
 
-## IPFS & libp2p Dev Meetings (Berlin, July 2018)
+## IPFS & libp2p Developer Meetings, Berlin, July 2018
 
 ![](/img/Berlin.jpg)
 
@@ -19,7 +19,3 @@ As a distributed project with contributors spread all over the world, we do most
 Our priority for the IPFS and libp2p Dev Meetings is to get all of the maintainers, most of the active contributors, and a strong sampling of people who have committed real time and effort to building software on IPFS and libp2p. Participants should be prepared to address key unresolved technical and community challenges, to co-create a sense of shared membership, ownership, and responsibility, and to leave the Dev Meetings with more responsibilities than they had when they arrived. Working sessions will focus on things like establishing OKRs, updating Roadmaps, etc.
 
 Participants will be selected by application. You can apply by filling out the [IPFS Dev Meeting Application Form](https://goo.gl/forms/sVRjrW1CA61FTwl12) and/or the [libp2p Dev Meeting Application Form](https://goo.gl/forms/8YpFQ7D00s5gC3hw2) To be eligible for selection you must either be an active contributor on GitHub or you must have your work reflected in the IPFS User Registry. Participants will be chosen based their directly-relevant responsibilities, the contributions they've made to the ecosystem, and the impact of their work. We might also invite a small number of guests to provide perspective, inspiration, and guidance from outside our immediate projects.
-
-## IPFS Conf (Lisbon, 2019)
-
-More details soon. [Pre-register for IPFSConf in 2019](https://goo.gl/forms/0Pu6VZzG8pRAmrrv2)
