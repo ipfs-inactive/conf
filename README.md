@@ -1,4 +1,4 @@
-# `IPFS Conf` Lisbon _2020, ~~Jun 24-26_~~ TBA.
+# `IPFS Conf` Lisbon. Dates TBA.
 
 ![](img/Lisbon-small.jpeg)
 
